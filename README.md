@@ -2,8 +2,7 @@
 
 This repository contains a two-part analytical case study on **startup funding**, executed entirely in Python using industry-standard data analysis practices. The project walks through the complete lifecycle of a data analysis workflow — from data cleaning to deriving insights.
 
----
-## 📌 **Overview**
+## **Overview**
 This project aims to explore patterns, trends, and relationships in startup funding datasets. The notebooks guide you step-by-step through:
 - Understanding the dataset
 - Cleaning and preprocessing
@@ -13,8 +12,7 @@ This project aims to explore patterns, trends, and relationships in startup fund
 
 Both notebooks are structured, well-documented, and designed for anyone looking to practice real-world data analytics and visualization.
 
----
-## 📁 **Repository Contents**
+## **Repository Contents**
 
 ### **1. Part 1 — Data Cleaning & Preprocessing**
 - Loading and inspecting raw datasets
@@ -30,16 +28,14 @@ Both notebooks are structured, well-documented, and designed for anyone looking 
 - Year-over-year funding patterns
 - Visual insights using matplotlib & seaborn
 
----
-## 🛠️ **Technologies Used**
+## **Technologies Used**
 - **Python**
 - **Pandas** (data cleaning, preprocessing)
 - **NumPy** (numerical operations)
 - **Matplotlib & Seaborn** (visualization)
 - **Jupyter Notebook** (analysis environment)
 
----
-## 📊 **Key Insights Uncovered**
+## **Key Insights Uncovered**
 Some highlights from the analysis include:
 - Funding distribution across sectors
 - Investor behavior and dominant funding rounds
@@ -48,8 +44,7 @@ Some highlights from the analysis include:
 
 (Modify this section based on your actual findings.)
 
----
-## 🚀 How to Run the Project
+## How to Run the Project
 1. Clone the repository:
    ```bash
    git clone <your-repo-url>
@@ -67,21 +62,17 @@ Some highlights from the analysis include:
    jupyter notebook
    ```
 
----
-## 📌 **Future Improvements**
+## **Future Improvements**
 - Add predictive modeling (e.g., funding amount prediction)
 - Build an interactive dashboard (Power BI/Tableau/Streamlit)
 - Integrate external datasets for deeper insights
 
----
-## 🤝 **Contributions**
+## **Contributions**
 Pull requests and suggestions are welcome!
 
----
-## 📜 **License**
+## **License**
 This project is released under the MIT License.
 
----
 If you'd like, I can also:
 - Generate a **requirements.txt**
 - Write a more customized insight section
